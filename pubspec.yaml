@@ -68,6 +68,7 @@ flutter:
      - assets/images/moneyplant.jpg
      - assets/images/roja.jpg
      - assets/images/whiterose.jpg
+     - assets/images/frontpage.jpg
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
